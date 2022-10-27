@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--------------
+Welcome to my page
+I'm Da won, who wants to become a backend developer
+![Spring](https://img.shields.io/badge/-Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
