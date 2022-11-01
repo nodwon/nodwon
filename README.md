@@ -6,7 +6,7 @@ Welcome to my page<br>
 I'm Da won, who wants to become a backend developer<br>
 
 #### Contact
-Email : nodwon5024@gmail.com <br>
+Email :  <br>
 Portfolio : <br>
 studylog : https://tundra-pleasure-dcf.notion.site/Back-end-e362f8e0a3e94c509048fd49d61f841c<br>
 
