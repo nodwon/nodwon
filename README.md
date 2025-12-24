@@ -3,7 +3,7 @@
 ### Introduction
 
 Welcome to my page<br>
-I'm Da won, who wants to become a backend developer<br>
+I'm Da won, <br>
 
 #### Contact
 Email :  <br>
